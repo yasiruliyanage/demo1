@@ -1,0 +1,13 @@
+.btn {
+    background-color: transparent;
+    color:#205781;
+    color:white;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:25px;
+    padding-right: 25px;
+    font-family: 'Poppins', 'sans-serif';
+    border-radius: 10px;
+    border: 0;
+    font-size: 14x;
+}
